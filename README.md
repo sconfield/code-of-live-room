@@ -24,7 +24,11 @@
 - [Robomongo](https://robomongo.org)
 - [Balsamiq Mockups](https://balsamiq.com)
 - [Sketch](https://www.sketchapp.com)
+- [墨刀](https://modao.cc)
 - [Process On](https://www.processon.com)
+- [Jenkins](https://jenkins.io)
+- [Xshell and Xftp](http://www.netsarang.com)
+- Vagrant
 
 # task
 - [番茄土豆](https://www.pomotodo.com)
