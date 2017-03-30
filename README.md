@@ -21,6 +21,7 @@
 # tool
 - [Source Tree](https://www.sourcetreeapp.com)
 - [Robomongo](https://robomongo.org)
+- [Postman](https://www.getpostman.com)
 - [Balsamiq Mockups](https://balsamiq.com)
 - [Sketch](https://www.sketchapp.com)
 - [墨刀](https://modao.cc)
