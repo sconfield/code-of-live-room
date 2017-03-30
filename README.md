@@ -16,6 +16,7 @@
 # live
 - [teahour](http://teahour.fm)
 - [f.lux](https://justgetflux.com)
+- [cclearner](https://www.piriform.com/ccleaner)
 - [Dash](https://kapeli.com/dash)
 - [Cheat Sheet](https://www.mediaatelier.com/CheatSheet)
 
@@ -25,6 +26,7 @@
 - [Balsamiq Mockups](https://balsamiq.com)
 - [Sketch](https://www.sketchapp.com)
 - [Process On](https://www.processon.com)
+- [modao](https://modao.cc/)
 
 # task
 - [番茄土豆](https://www.pomotodo.com)
@@ -32,4 +34,5 @@
 
 # vpn
 - [Lantern](https://github.com/getlantern/lantern)
+- [hosts](https://github.com/racaljk/hosts)
 - [云梯](https://www.yuntipub.com)
