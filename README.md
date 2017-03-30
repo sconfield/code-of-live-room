@@ -2,16 +2,14 @@
 - [Eclipse](http://www.eclipse.org)
   - [Spring Tool Suite](http://spring.io/tools/sts/all)
   - [Darkest dark theme](https://www.genuitec.com/tech/darkest-dark)
-  - [Eclipse Color Themes](http://www.eclipsecolorthemes.org)
   - [M2Eclipse](http://www.eclipse.org/m2e)
   - Snowberry
-  - Properties Editor
   - FindBugs
 - [Sublime Text](http://www.sublimetext.com)
 
 # font
 - [Hack](http://sourcefoundry.org/hack)
-- [Source Code Pro](http://adobe-fonts.github.io/source-code-pro)
+- ~~[Source Code Pro](http://adobe-fonts.github.io/source-code-pro)~~
 
 # live
 - [teahour](http://teahour.fm)
@@ -25,8 +23,11 @@
 - [Robomongo](https://robomongo.org)
 - [Balsamiq Mockups](https://balsamiq.com)
 - [Sketch](https://www.sketchapp.com)
+- [墨刀](https://modao.cc)
 - [Process On](https://www.processon.com)
-- [modao](https://modao.cc/)
+- [Jenkins](https://jenkins.io)
+- [Xshell and Xftp](http://www.netsarang.com)
+- ~~Vagrant~~
 
 # task
 - [番茄土豆](https://www.pomotodo.com)
