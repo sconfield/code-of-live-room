@@ -8,8 +8,10 @@
 		"Alignment",
 		"AutoFileName",
 		"Babel",
+		"BracketHighlighter",
 		"Emmet",
 		"GitGutter",
-		"Package Control"
+		"Package Control",
+		"Seti_UI"
 	]
 }
