@@ -5,13 +5,22 @@
 	],
 	"installed_packages":
 	[
+		"A File Icon",
 		"Alignment",
 		"AutoFileName",
 		"Babel",
+		"Babel Snippets",
+		"Boxy Theme",
 		"BracketHighlighter",
+		"Color Highlighter",
+		"ColorHelper",
 		"Emmet",
-		"GitGutter",
+		"jQuery",
+		"LESS",
 		"Package Control",
-		"Seti_UI"
+		"Pretty JSON",
+		"Vue Syntax Highlight",
+		"Vuejs Snippets",
+		"wxapp"
 	]
 }

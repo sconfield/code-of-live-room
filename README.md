@@ -6,6 +6,7 @@
   - Snowberry
   - FindBugs
 - [Sublime Text](http://www.sublimetext.com)
+- [微信 web 开发工具](https://mp.weixin.qq.com/debug/wxadoc/dev/devtools/download.html)
 
 # font
 - [Hack](http://sourcefoundry.org/hack)
@@ -16,6 +17,7 @@
 - [f.lux](https://justgetflux.com)
 - [cclearner](https://www.piriform.com/ccleaner)
 - [Dash](https://kapeli.com/dash)
+- [overapi](http://overapi.com)
 - [Cheat Sheet](https://www.mediaatelier.com/CheatSheet)
 
 # tool
