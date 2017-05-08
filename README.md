@@ -1,11 +1,11 @@
 # editor
 - [Eclipse](http://www.eclipse.org)
   - [Spring Tool Suite](http://spring.io/tools/sts/all)
+  - Eclipse IDE for JavaScript Web Developers
   - [Darkest dark theme](https://www.genuitec.com/tech/darkest-dark)
-  - [M2Eclipse](http://www.eclipse.org/m2e)
-  - Snowberry
-  - FindBugs
 - [Sublime Text](http://www.sublimetext.com)
+- [Vim](http://www.vim.org)
+  - [spf13](http://vim.spf13.com)
 - [微信 web 开发工具](https://mp.weixin.qq.com/debug/wxadoc/dev/devtools/download.html)
 
 # font
@@ -17,8 +17,10 @@
 - [f.lux](https://justgetflux.com)
 - [cclearner](https://www.piriform.com/ccleaner)
 - [Dash](https://kapeli.com/dash)
-- [overapi](http://overapi.com)
+- [Zeal](https://zealdocs.org)
+- ~~[overapi](http://overapi.com)~~
 - [Cheat Sheet](https://www.mediaatelier.com/CheatSheet)
+- [Vim adventures](http://vim-adventures.com)
 
 # tool
 - [Source Tree](https://www.sourcetreeapp.com)
@@ -27,9 +29,11 @@
 - [Balsamiq Mockups](https://balsamiq.com)
 - [Sketch](https://www.sketchapp.com)
 - [墨刀](https://modao.cc)
+- [石墨](https://shimo.im)
 - [Process On](https://www.processon.com)
 - [Jenkins](https://jenkins.io)
-- [Xshell and Xftp](http://www.netsarang.com)
+- ~~[Xshell and Xftp](http://www.netsarang.com)~~
+- [Oh My Zsh](http://ohmyz.sh)
 - ~~Vagrant~~
 
 # task
@@ -40,3 +44,10 @@
 - [Lantern](https://github.com/getlantern/lantern)
 - [hosts](https://github.com/racaljk/hosts)
 - [云梯](https://www.yuntipub.com)
+
+# node
+- nrm
+- sinopia
+- pm2
+- vue-cli
+- hexo-cli
