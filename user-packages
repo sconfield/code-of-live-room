@@ -8,19 +8,19 @@
 		"A File Icon",
 		"Alignment",
 		"AutoFileName",
-		"Babel",
-		"Babel Snippets",
 		"Boxy Theme",
 		"BracketHighlighter",
-		"Color Highlighter",
 		"ColorHelper",
 		"Emmet",
-		"jQuery",
+		"JavaScript & NodeJS Snippets",
+		"JsPrettier",
 		"LESS",
+		"Local History",
 		"Package Control",
 		"Pretty JSON",
 		"Vue Syntax Highlight",
 		"Vuejs Snippets",
+		"WebdriverIO",
 		"wxapp"
 	]
 }

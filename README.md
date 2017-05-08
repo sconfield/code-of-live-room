@@ -1,7 +1,7 @@
 # editor
 - [Eclipse](http://www.eclipse.org)
   - [Spring Tool Suite](http://spring.io/tools/sts/all)
-  - Eclipse IDE for JavaScript Web Developers
+  - [Eclipse IDE for JavaScript Web Developers](https://eclipse.org/downloads/packages/eclipse-ide-javascript-and-web-developers/neon3)
   - [Darkest dark theme](https://www.genuitec.com/tech/darkest-dark)
 - [Sublime Text](http://www.sublimetext.com)
 - [Vim](http://www.vim.org)
